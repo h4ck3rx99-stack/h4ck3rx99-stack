@@ -1,21 +1,30 @@
 {
-  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description (all four of these currently have none set). Setting them on GitHub too is worth doing - it helps anyone browsing your repo list.",
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description.",
   "projects": [
     {
-      "repo": "dossier",
-      "description": "An immersive design-engineering portfolio. Fluid scroll inertia, geometric morphing, and typography that bends toward your cursor."
+      "repo": "The-Entity-AI",
+      "name": "The Entity AI",
+      "description": "A personal AI assistant built around voice interaction, intelligent agents, automation, and tool execution.",
+      "language": "Python"
     },
     {
-      "repo": "Sage",
-      "description": "A local-first calendar that shapes your week around six productivity frameworks, with an assistant that plans according to the method you pick."
+      "repo": "Inkwell",
+      "name": "Inkwell",
+      "description": "A real-time AI writing assistant designed to provide intelligent corrections across the desktop.",
+      "language": "JavaScript"
     },
     {
-      "repo": "Socrates",
-      "description": "Learn by teaching. Explain a concept to the AI, get caught on the parts you only half-understand, and prove you actually know it."
+      "repo": "AuditTrail",
+      "name": "AuditTrail",
+      "description": "A B2B SaaS platform focused on automating SOC 2 evidence collection and compliance workflows.",
+      "language": "TypeScript"
     },
     {
-      "repo": "humanOS",
-      "description": "A gamified operating system for your life. Goals as interactive orbits, habit and mood tracking, and Gemini breaking objectives into daily tasks."
+      "repo": "Ashfall",
+      "name": "Ashfall",
+      "description": "A dark Soulslike action RPG being built from the ground up with Unreal Engine 5 and C++.",
+      "language": "C++"
     }
   ]
 }
+
